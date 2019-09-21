@@ -1,4 +1,5 @@
 Hello world 
+<<<<<<< HEAD
 from xyz file
 
 
@@ -6,3 +7,6 @@ it is a latest version
 
 
 latest version with wrong information
+=======
+from xyz file
+>>>>>>> parent of d5027eb... Commit xyz
