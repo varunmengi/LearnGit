@@ -1,7 +1,2 @@
-first version which is correct 
-hello everyone
-hello hi
-welcome 
-too india
-we are here
-to celebrate
+hello revert 
+changes need to revert 
